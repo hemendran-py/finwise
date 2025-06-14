@@ -1,13 +1,22 @@
-```markdown
+
 # 🚀 Next.js Project
 
 A modern web application built using [Next.js](https://nextjs.org/) — fast, scalable, and SEO-friendly by design.
 
-```
+<p align="start">
+  <img src="https://github.com/user-attachments/assets/c6ad7e4a-2cfb-46b6-a04e-da6c16defedc" width="60%" />
+  <img src="https://github.com/user-attachments/assets/9a135f56-be03-495e-9ca5-b13ebe45fc2e" width="60%" />
+</p>
+<p>
+
+  <img src="https://github.com/user-attachments/assets/051913a2-0d2a-4cc3-bf92-f947e660245f" width="60%" />
+</p>
+
 
 ## 📁 Project Structure
 
-```
+
+
 /public         → Static files  
 /pages          → Routes and API  
 /components     → Reusable UI components  
