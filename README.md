@@ -21,7 +21,7 @@ A modern web application built using [Next.js](https://nextjs.org/) — fast, sc
 /pages          → Routes and API  
 /components     → Reusable UI components  
 /styles         → CSS and styling  
-```
+
 
 ---
 
