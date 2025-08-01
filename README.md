@@ -1,5 +1,5 @@
 
-# 🚀 Next.js Project
+# 🚀 FinWise
 
 A modern web application built using [Next.js](https://nextjs.org/) — fast, scalable, and SEO-friendly by design.
 
